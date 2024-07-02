@@ -1,5 +1,7 @@
 The repo shows how to implement CMU OAuth (sign-in with CMU Account) in your own web app using Next.js + TypeScript. We get CMU basic info (like student name, student id,..) after signing in then we use this information to create our own session.
 
+[More information about CMU OAuth](https://docs.google.com/document/d/1N2jqPHwgKD1hmspXBlEfoHEw6Sj2m-co2Jx_lRQTPwY/edit?usp=sharing)
+
 ## Please do the following steps before you start
 
 1. Run **npm install** in your terminal.
